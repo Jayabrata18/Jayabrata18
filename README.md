@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jayabrata
-- 👀 I’m interested in everythings
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in java, web development, blockchain, ML, AI, Automation
+- 🌱 I’m currently learning ML 
+- 💞️ I’m looking to collaborate on python as backend development
 - 📫 How to reach me --jayabrata180402@gmail.com
 
 <!---
