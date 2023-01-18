@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-[](https://github.com/Jayabrata18/Jayabrata18/blob/main/header_1.png)
+[] (https://github.com/Jayabrata18/Jayabrata18/blob/main/header_1.png)
 
 Hello, I'm Jayabrata Pramanik, a third-year college student pursuing Btech degree in computer science. I have a passion for web development and specialize in full-stack development. I am well-versed in technologies like front-end and back-end web development and various frameworks and libraries. I am particularly interested in web3 and its potential for shaping the future of the web. In my free time, I stay updated on the latest industry developments and enjoy experimenting with new technologies. I am open to collaborating on any full-stack web development projects and would love to connect with others in the field. Let's build something great together!
 
