@@ -68,9 +68,6 @@ src="https://img.shields.io/twitter/follow/Jayabrata22?logo=twitter&style=for-th
 **Tools**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/atom.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
-
 
 
 <p align="left">
