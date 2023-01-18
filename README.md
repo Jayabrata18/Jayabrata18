@@ -15,7 +15,7 @@ Hello, I'm Jayabrata Pramanik, a third-year college student pursuing Btech degre
 src="https://img.shields.io/github/followers/Jayabrata18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Jayabrata22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Jayabrata22?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
+<a https://visitor-badge.glitch.me/badge?page_id=https://github.com/Jayabrata18/Jayabrata18&left_color=green&right_color=red>
 ### Skills
 
 
