@@ -13,6 +13,9 @@ Hello, I'm Jayabrata Pramanik, a third-year college student pursuing Btech degre
 * 🧠  I'm learning Microservices
 * 🤝  I'm open to collaborating on Front-end, backend, Web3 projects
 
+👉🏻 ![Visitor Count](https://profile-counter.glitch.me/jayabrata18/count.svg)
+
+
 <a href="https://www.github.com/Jayabrata18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jayabrata18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Jayabrata22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Jayabrata22?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
