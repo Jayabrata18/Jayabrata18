@@ -61,9 +61,9 @@ src="https://img.shields.io/twitter/follow/Jayabrata22?logo=twitter&style=for-th
   
 **Cloud Servers**
 
-<img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png">
+<p align="left">al<img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png">
 <img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/gcloud.png">
-<img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/DigitalOcean.png">
+<img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/DigitalOcean.png"></p>
 
 **Tools**
 
