@@ -135,6 +135,8 @@ src="https://img.shields.io/twitter/follow/Jayabrata22?logo=twitter&style=for-th
 <a href="http://www.github.com/Jayabrata18"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jayabrata18&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayabrata18&langs_count=12)](https://github.com/Jayabrata18/github-readme-stats)
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/jayabrata18"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
