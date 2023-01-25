@@ -9,7 +9,7 @@ Full Stack Developer
 Hello, I'm Jayabrata Pramanik, a third-year college student pursuing Btech degree in computer science. I have a passion for web development and specialize in full-stack development. I am well-versed in technologies like front-end and back-end web development and various frameworks and libraries. I am particularly interested in web3 and its potential for shaping the future of the web. In my free time, I stay updated on the latest industry developments and enjoy experimenting with new technologies. I am open to collaborating on any full-stack web development projects and would love to connect with others in the field. Let's build something great together!
 
 * 🌍  I'm based in Kolkata
-*  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />  You can contact me at [jayabrata180402@gmail.com](mailto:jayabrata180402@gmail.com)
+*  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" align="center" /> You can contact me at [jayabrata180402@gmail.com](mailto:jayabrata180402@gmail.com)
 * 🧠  I'm learning Microservices
 * 🤝  I'm open to collaborating on Front-end, backend, Web3 projects
 
