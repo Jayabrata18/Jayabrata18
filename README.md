@@ -10,7 +10,7 @@ Hello, I'm Jayabrata Pramanik, a third-year college student pursuing Btech degre
 
 * 🌍  I'm based in Kolkata
 *  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" align="center" /> You can contact me at [jayabrata180402@gmail.com](mailto:jayabrata180402@gmail.com)
-* 🧠  I'm learning Microservices
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I'm learning Microservices
 * 🤝  I'm open to collaborating on Front-end, backend, Web3 projects
 
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/jayabrata18/count.svg)
