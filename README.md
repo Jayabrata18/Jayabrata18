@@ -149,6 +149,11 @@ src="https://img.shields.io/twitter/follow/Jayabrata22?logo=twitter&style=for-th
 
 <a href="https://www.buymeacoffee.com/jayabrata18"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
+### fun
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+###
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
