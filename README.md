@@ -152,7 +152,7 @@ src="https://img.shields.io/twitter/follow/Jayabrata22?logo=twitter&style=for-th
 ### fun
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Jayabrata18/Jayabrata18/blob/main/snake.svg" alt="Snake animation" />
 ###
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
