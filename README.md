@@ -128,7 +128,8 @@ src="https://img.shields.io/twitter/follow/Jayabrata22?logo=twitter&style=for-th
 
 <a href="http://www.github.com/Jayabrata18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayabrata18&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Jayabrata18"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jayabrata18&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Jayabrata18"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayabrata18&bg_color=#ffcfe9.slice(1)&color=#9e4c98.slice(1)&line=#9e4c98.slice(1)&point=#403d3d.slice(1)&area=true&hide_border=true)]" /></a>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayabrata18&langs_count=18)](https://github.com/Jayabrata18/github-readme-stats)
